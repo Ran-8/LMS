@@ -30,4 +30,4 @@ A Java-based Library Management System designed to manage books, patrons, and le
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ran-8/LMS/tree/main
