@@ -22,6 +22,10 @@ A Java-based Library Management System designed to manage books, patrons, and le
 - **Recommendation System**:
   - Recommend books based on borrowing history and preferences.
 
+### Class Diagram
+![Library Management System Overview](docs/ClassDiagram.png)
+
+
 
 ## How to Run
 1. Clone the repository:
